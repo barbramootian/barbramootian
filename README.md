@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barbramootian
-- 👀 I’m interested in programmin
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Website Application.
 - 📫 How to reach me 
